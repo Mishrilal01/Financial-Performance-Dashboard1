@@ -60,7 +60,7 @@ Tableau Public: The primary tool used for data visualization and dashboard creat
 How to View the Dashboard
 The dashboard is published on Tableau Public. You can view the live dashboard by visiting [Insert Tableau Public Dashboard Link Here].
 
-(Note: Replace [**Insert Tableau Public Dashboard Link Here**] with the actual link to your published dashboard.)
+ https://public.tableau.com/app/profile/mishrilal.pairhar/viz/FinancialPerformanceDashboard1_17540511537030/Dashboard1
 
 Future Enhancements
 Implementing advanced calculations or predictive analytics.
